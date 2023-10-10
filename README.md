@@ -6,7 +6,7 @@
 - I'm learning Java
  name of my mod: New World  
 what I want: a new system (I think there will be 2 systems)  a lot of content! huge company. and other
-- https://discord.com/channels/697929564210331681/697936181815541811/970838806448177182
+- Асепрайт фулл версия
 
 <!---
 Reaktop/Reaktop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
