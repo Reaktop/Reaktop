@@ -2,7 +2,7 @@
 - 👀 I’m interested Mindustry modding
 - 📫 How to reach me:
 - discord my mod -> he won't be there yet
-- Fothoshop yandex - https://disk.yandex.ru/d/OnvbIt5SE4_Huw?w=1
+- Fothoshop yandex- https://disk.yandex.ru/d/OnvbIt5SE4_Huw?w=1
 - I'm learning Java.
  name of my mod: New World  
 what I want: a new system (I think there will be 2 systems)  a lot of content! huge company. and other
